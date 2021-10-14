@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tsheko777
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning React/Node
-- 💞️ I’m looking to collaborate on projects including php,javascript,jquery and react framework
+- 💞️ I’m looking to collaborate on projects concerning php,javascript,jquery and react framework
 - 📫 How to reach me uxpress01@gmail.com
 
 <!---
